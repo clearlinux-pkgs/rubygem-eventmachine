@@ -4,7 +4,7 @@
 #
 Name     : rubygem-eventmachine
 Version  : 1.0.7
-Release  : 1
+Release  : 2
 URL      : https://rubygems.org/downloads/eventmachine-1.0.7.gem
 Source0  : https://rubygems.org/downloads/eventmachine-1.0.7.gem
 Summary  : No detailed summary available
